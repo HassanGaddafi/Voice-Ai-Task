@@ -18,8 +18,7 @@ An intelligent productivity mobile application that turns unstructured voice not
 
 | :---: | :---: | :---: |
 
-| <img src="docs/dashboard.png" width="200"> | <img src="docs/voice\_record.png" width="200"> | <img src="docs/manual\_entry.png" width="200"> |
-
+| <img src="assets/icons/images/Voice_Ai home.png" width="200"> | <img src="assets/icons/images/Voice_Ai Dones.png" width="200"> | <img src="assets/icons/images/Voice_Ai Analystic.png" width="200"> | <img src="assets/icons/images/Voice_Ai notifications.png" width="200"> | <img src="assets/icons/images/Voice_Ai profile.png" width="200">
 
 
 \---
